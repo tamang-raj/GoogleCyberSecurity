@@ -1,0 +1,63 @@
+1.
+Question 1
+Fill in the blank: A security _____ is a set of guidelines used for building plans to help mitigate risk and threats to data and privacy.
+
+control
+
+regulation
+
+lifecycle
+
+framework
+
+Nice work
+Security frameworks are guidelines used for building plans to help mitigate risk and threats to data and privacy.
+
+1 / 1 point
+2.
+Question 2
+An organization requires its employees to complete a new data privacy training program each year to reduce the risk of a data breach. What is this training requirement an example of?
+
+Cybersecurity Framework (CSF)
+
+Personally identifiable information (PII)
+
+Data confidentiality
+
+Security control
+
+Nice work
+Security controls are safeguards designed to reduce specific security risks.
+
+1 / 1 point
+3.
+Question 3
+What is a foundational model that informs how organizations consider risk when setting up systems and security policies?
+
+Sensitive personally identifiable information (SPII)
+
+Confidentiality, integrity, and availability (CIA) triad
+
+General Data Protection Regulation law (GDPR)
+
+Cybersecurity Framework (CSF)
+
+Nice work
+The CIA triad is a foundational model that helps inform how organizations consider risk when setting up systems and security policies.
+
+1 / 1 point
+4.
+Question 4
+Security teams use the NIST Cybersecurity Framework (CSF) as a baseline to manage short and long-term risk.
+
+True
+
+False
+
+Nice work
+Security teams use the NIST CSF as a baseline to manage short and long-term risk. The CSF is a voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+
+1 / 1 point
+
+
+Your Grade is 100%. PASSED.
