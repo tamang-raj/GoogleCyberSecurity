@@ -1,0 +1,60 @@
+Here are the correct answers:
+
+1. **Which statements correctly describe logs? (Select two.)**
+   ✅ **Logs help identify vulnerabilities and potential security breaches.**
+   ✅ **A business might log each time an employee accesses web-based services.**
+
+2. **Which tasks can be performed using SIEM tools? (Select three.)**
+   ✅ **Analyzing filtered events and patterns**
+   ✅ **Monitoring critical activities**
+   ✅ **Saving time by reducing the amount of data to be reviewed**
+
+3. **Instead of reviewing pages of logs, analysts can use _____ tools...**
+   ✅ **security information and event management (SIEM)**
+
+4. **A security team uses a _____ to help them document organizational processes from beginning to end.**
+   ✅ **playbook**
+
+5. **Monitoring network traffic to ensure SPII data is not accessed by unauthorized users describes:**
+   ✅ **Using a network protocol analyzer (packet sniffer)**
+
+6. **What are key benefits of programming languages? (Select all that apply.)**
+   ✅ **Execute repetitive processes very accurately**
+   ✅ **Can be used to create a specific set of instructions for a computer to execute tasks**
+   ✅ **Complete repetitive tasks with a high degree of efficiency**
+
+7. **Linux relies on a(n) _____ as the primary user interface.**
+   ✅ **command line**
+
+8. **A database is a _____ of organized data stored in a computer system.**
+   ✅ **collection**
+
+9. **What are key benefits of using Python to perform security tasks? (Select all that apply.)**
+   ✅ **It helps ensure accuracy.**
+   ✅ **It saves time.**
+
+### Final Answers
+
+1. ✅ Logs help identify vulnerabilities and potential security breaches.
+   ✅ A business might log each time an employee accesses web-based services.
+
+2. ✅ Analyzing filtered events and patterns
+   ✅ Monitoring critical activities
+   ✅ Saving time by reducing the amount of data to be reviewed
+
+3. ✅ security information and event management (SIEM)
+
+4. ✅ playbook
+
+5. ✅ Using a network protocol analyzer (packet sniffer)
+
+6. ✅ Execute repetitive processes very accurately
+   ✅ Can be used to create a specific set of instructions for a computer to execute tasks
+   ✅ Complete repetitive tasks with a high degree of efficiency
+
+7. ✅ command line
+
+8. ✅ collection
+
+9. ✅ It helps ensure accuracy.
+   ✅ It saves time.
