@@ -1,0 +1,154 @@
+1.
+Question 1
+Which of the following threats are examples of malware? Select two answers.
+
+Error messages
+
+Viruses
+
+Nice work
+Bugs
+
+Worms
+
+Nice work
+1 / 1 point
+2.
+Question 2
+Which security event, related to the successful infiltration of a credit reporting agency, resulted in one of the largest known data breaches of sensitive information, including customers' social security and credit card numbers?
+
+Equifax breach 
+
+Morris worm
+
+LoveLetter attack
+
+Brain virus
+
+Nice work
+1 / 1 point
+3.
+Question 3
+Fill in the blank: Social engineering is a _____ that exploits human error to gain private information, access, or valuables.
+
+business breach
+
+manipulation technique
+
+replicating virus
+
+type of malware
+
+Nice work
+1 / 1 point
+4.
+Question 4
+Which of the following threats are most likely to occur in the event of a phishing attack? Select all that apply. 
+
+Employees inadvertently revealing sensitive data
+
+Nice work
+Overtaxing systems with too many internal emails
+
+Theft of the organization’s hardware
+
+Malicious software being deployed
+
+Nice work
+1 / 1 point
+5.
+Question 5
+Which domain involves defining security goals and objectives, risk mitigation, compliance, business continuity, and the law?
+
+Identity and access management
+
+Security and risk management
+
+Security assessment and testing
+
+Security architecture and engineering
+
+Nice work
+1 / 1 point
+6.
+Question 6
+Which domain involves optimizing data security by ensuring that effective tools, systems, and processes are in place?
+
+Communication and network security
+
+Identity and access management
+
+Security architecture and engineering
+
+Security and risk management
+
+Nice work
+1 / 1 point
+7.
+Question 7
+Which of the following tasks may be part of the asset security domain? Select all that apply.
+
+Proper disposal of digital assets
+
+Data storage and maintenance
+
+Nice work
+Ensuring users follow established policies
+
+Securing digital and physical assets
+
+Nice work
+You didn't select all the correct answers
+0.8 / 1 point
+8.
+Question 8
+A security professional is auditing user permissions at their organization to ensure that only the customer service, sales, and marketing teams have access to customer data. Which domain does this scenario describe?
+
+Asset security
+
+Security assessment and testing
+
+Security and risk management
+
+Communication and network security
+
+Try again
+Please review 
+the video on security domains
+.
+
+0 / 1 point
+9.
+Question 9
+Which of the following tasks may be part of the identity and access management domain? Select three answers..
+
+Ensuring users follow established policies
+
+Nice work
+Conducting security control testing
+
+Managing and controlling physical and logical assets
+
+Nice work
+Setting up an employee’s access keycard
+
+You didn't select all the correct answers
+0.8 / 1 point
+10.
+Question 10
+Which of the following tasks may be part of the security operations domain? Select all that apply.
+
+Using secure coding practices to create safe applications and services
+
+Implementing preventive measures
+
+Nice work
+Conducting investigations
+
+Nice work
+Investigating an unknown device that has connected to an internal network
+
+Nice work
+1 / 1 point
+
+Your Grade is 85%. PASSED.
