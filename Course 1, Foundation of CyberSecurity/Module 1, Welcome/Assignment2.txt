@@ -1,0 +1,80 @@
+1.
+Question 1
+Which of the following proficiencies are transferable skills, likely to be applicable in almost any field? Select three answers. 
+
+Problem-solving
+
+Nice work
+Analysis, problem-solving, and written and verbal communication skills are transferable entry-level security analyst skills.
+
+Written and verbal communication
+
+Nice work
+Analysis, problem-solving, and written and verbal communication skills are transferable entry-level security analyst skills.
+
+Programming
+
+ Analysis
+
+Nice work
+Analysis, problem-solving, and written and verbal communication skills are transferable entry-level security analyst skills.
+
+1 / 1 point
+2.
+Question 2
+Which of the following proficiencies are technical skills that are needed to become an entry-level security analyst? Select two answers. 
+
+Regulation writing
+
+Collaboration
+
+Data analysis
+
+Nice work
+Programming and data analysis are technical skills, which are needed to become an entry-level security analyst. 
+
+Programming
+
+Nice work
+Programming and data analysis are technical skills, which are needed to become an entry-level security analyst. 
+
+1 / 1 point
+3.
+Question 3
+Fill in the blank: _____ identify, analyze, and preserve criminal evidence within networks, computers, and electronic devices.
+
+Ethical hackers
+
+ Security operations center analysts
+
+Digital forensic investigators
+
+Business intelligence professionals
+
+Nice work
+Digital forensic investigators identify, analyze, and preserve criminal evidence within networks, computers, and electronic devices.
+
+1 / 1 point
+4.
+Question 4
+What are examples of sensitive personally identifiable information (SPII) that cybersecurity professionals need to protect? Select two answers.
+
+
+Email addresses
+
+Medical records
+
+Nice work
+Medical records and bank account numbers are examples of sensitive personally identifiable information. SPII is a specific type of PII that requires stricter protections because it can be significantly more damaging to individuals if it is stolen.
+
+Last names
+
+Bank account numbers
+
+Nice work
+Medical records and bank account numbers are examples of sensitive personally identifiable information. SPII is a specific type of PII that requires stricter protections because it can be significantly more damaging to individuals if it is stolen.
+
+1 / 1 point
+
+
+Your Grade is 100%. PASSED.
