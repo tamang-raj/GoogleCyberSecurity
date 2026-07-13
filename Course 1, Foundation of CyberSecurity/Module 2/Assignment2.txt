@@ -1,0 +1,67 @@
+1.
+Question 1
+Fill in the blank: Examples of security _____ include security and risk management and security architecture and engineering.
+
+data
+
+networks
+
+domains
+
+assets
+
+Nice work
+Examples of security domains include security and risk management and security architecture and engineering.
+
+1 / 1 point
+2.
+Question 2
+A security professional is asked to destroy and dispose of old hard drives that include confidential customer information. Which security domain is this task related to?
+
+Software development security
+
+Security and risk management
+
+Asset security
+
+Communication and network security
+
+Nice work
+This task is related to the asset security domain. This domain focuses on managing and securing digital and physical assets, as well as the storage, maintenance, retention, and destruction of data.
+
+1 / 1 point
+3.
+Question 3
+Your supervisor asks you to audit user permissions for payroll data to ensure no unauthorized employees have access to it. Which security domain is this audit related to?
+
+Software development security
+
+Asset security
+
+Security assessment and testing
+
+Security operations
+
+Nice work
+This is related to security assessment and testing, which often involves regular audits of user permissions to make sure employees and teams have the correct level of access. 
+
+1 / 1 point
+4.
+Question 4
+You are asked to investigate an alert related to an unknown device that is connected to the company's internal network. After you complete your investigation, you follow company policies and procedures to implement preventative measures that will stop the potential threat posed by the device. Which security domain is this scenario related to?
+
+Software development security
+
+Asset security
+
+Security architecture and engineering
+
+Security operations
+
+Nice work
+This is related to the security operations domain, which is focused on conducting investigations and implementing preventative measures. In this scenario, following company policies and procedures to stop the potential threat is an example of taking preventative measures.
+
+1 / 1 point
+
+
+Your Grade is 100%. PASSED. 
