@@ -1,0 +1,22 @@
+Here are the correct answers:
+
+1. **What do security professionals use to interact with and request information from a database?**
+   ✅ **Structured Query Language (SQL)**
+
+2. **What is programming typically used for?** *(Select two answers.)*
+   ✅ **Complete repetitive tasks and processes**
+   ✅ **Create a specific set of instructions for a computer to execute tasks**
+
+3. **Fill in the blank: Linux is an open-source _____ that can be used to examine logs.**
+   ✅ **operating system**
+
+4. **A playbook is a manual that only provides details about how to respond to an incident.**
+   ✅ **False** (A playbook provides details about operational actions, including response procedures, but not only incident response.)
+
+**Final Answers:**
+
+1. ✅ Structured Query Language (SQL)
+2. ✅ Complete repetitive tasks and processes
+   ✅ Create a specific set of instructions for a computer to execute tasks
+3. ✅ operating system
+4. ✅ False
