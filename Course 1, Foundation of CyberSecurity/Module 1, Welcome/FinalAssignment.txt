@@ -1,0 +1,137 @@
+1.
+Question 1
+Fill in the blank: The purpose of _____ is to protect networks, devices, people, and data from unauthorized access or criminal exploitation. 
+
+
+business continuity
+
+cybersecurity
+
+planning
+
+change-management
+
+Nice work
+1 / 1 point
+2.
+Question 2
+What occurs during a security audit?
+
+Review of an organization’s security records, activities, and other related documents
+
+Ethical hacking of an organization's internal network to identify vulnerabilities
+
+Prioritizing tasks, processes, and procedures
+
+Analyzing the efficiency of an organization's internal network
+
+Nice work
+1 / 1 point
+3.
+Question 3
+An employee receives an email that they believe to be legitimate. They click on a compromised link within the email. What type of internal threat does this scenario describe?
+
+
+Intentional
+
+Accidental
+
+Operational
+
+Abusive
+
+Nice work
+1 / 1 point
+4.
+Question 4
+What is identity theft?
+
+Trying to gain access to an organization’s private networks
+
+A data breach that affects an entire organization
+
+Failing to maintain and secure user, customer, and vendor data
+
+Stealing personal information to commit fraud while impersonating a victim
+
+Nice work
+1 / 1 point
+5.
+Question 5
+What are some key benefits associated with an organization meeting regulatory compliance? Select two answers.
+
+
+Upholding ethical obligations
+
+Nice work
+Recruiting employees
+
+Identifying trends
+
+Avoiding fines
+
+Nice work
+1 / 1 point
+6.
+Question 6
+An individual is in their first job as an entry-level security professional. They apply the problem-solving proficiencies that they learned in past roles to their current security career. What does this scenario describe?
+
+Using transferable skills
+
+Having expertise with a specific procedure
+
+Understanding business standards
+
+Taking on-the-job training
+
+Nice work
+1 / 1 point
+7.
+Question 7
+Fill in the blank: Security information and _____ management (SIEM) tools enable security professionals to identify and analyze threats, risks, and vulnerabilities. 
+
+
+enterprise
+
+employer
+
+emergency
+
+event
+
+Nice work
+1 / 1 point
+8.
+Question 8
+What do security professionals typically do with SIEM tools?
+
+
+Identify and analyze security threats, risks, and vulnerabilities
+
+Identify threat actors and their locations
+
+Educate others about potential security threats, risks, and vulnerabilities
+
+Locate and preserve criminal evidence
+
+Nice work
+1 / 1 point
+9.
+Question 9
+Which of the following statements accurately describe personally identifiable information (PII) and sensitive personally identifiable information (SPII)? Select all that apply.
+
+
+The theft of SPII is often more damaging than the theft of PII.
+
+Nice work
+An example of SPII is someone’s last name. 
+
+SPII is a type of PII that falls under stricter handling guidelines.
+
+Nice work
+An example of PII is someone’s email address.
+
+Nice work
+1 / 1 poin
+
+Your Grade is 100%. PASSED.
