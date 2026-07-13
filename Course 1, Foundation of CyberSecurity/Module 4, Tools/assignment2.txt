@@ -20,3 +20,7 @@ Here are the correct answers:
    ✅ Create a specific set of instructions for a computer to execute tasks
 3. ✅ operating system
 4. ✅ False
+
+
+
+Grade : 100%
