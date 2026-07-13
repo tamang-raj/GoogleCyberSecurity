@@ -1,0 +1,69 @@
+1.
+Question 1
+An employee trained to handle PII and SPII leaves confidential patient information unlocked in a public area. Which ethical principles does this violate? Select all that apply.
+
+Laws
+
+Remaining unbiased
+
+Privacy protections
+
+Nice work
+This violates laws, confidentiality, and privacy protections. 
+
+Confidentiality
+
+Nice work
+This violates laws, confidentiality, and privacy protections. 
+
+You didn't select all the correct answers
+0.8 / 1 point
+2.
+Question 2
+Fill in the blank: Privacy protection means safeguarding _____ from unauthorized use.
+
+documentation
+
+personal information 
+
+compliance processes
+
+business networks
+
+Nice work
+Privacy protection means safeguarding personal information from unauthorized use. Ensuring user permissions are correct helps prevent individuals from accessing protected information that they are not authorized to access.
+
+1 / 1 point
+3.
+Question 3
+You receive a text message on your personal device from your manager stating that they cannot access the company’s secured online database. They’re updating the company’s monthly party schedule and need another employee’s birth date right away. Your organization’s policies and procedures state that employee information should never be accessed or shared through personal communication channels. What should you do?
+
+Give your manager the employee's birth date; a party is a friendly gesture.
+
+Ask your manager to provide proof of their inability to access the database. 
+
+Respectfully decline, then remind your manager of the organization's guidelines.
+
+Request identification from your manager to ensure the text message is authentic; then, provide the birth date.
+
+Nice work
+You should respectfully decline and remind your manager of the organization's guidelines. Your role as a security analyst is to follow the policies and procedures of your company.
+
+1 / 1 point
+4.
+Question 4
+You work for a U.S.-based utility company that suffers a data breach. Several hacktivist groups claim responsibility for the attack. However, there is no evidence to verify their claims. What is the most ethical way to respond to this incident?
+
+Conduct cyberattacks against each hacktivist group that claimed responsibility.
+
+Improve the company's defenses to help prevent future attacks.
+
+Escalate the situation by involving other organizations that have been targeted.
+
+Target a specific hacktivist group as a warning to the others.
+
+Nice work
+Defending against future attacks is the most ethical way to approach this situation. Counterattacks are illegal in the U.S. except for by approved employees of the federal government or military personnel.
+
+
+Your Grade is 100%. PASSED.
