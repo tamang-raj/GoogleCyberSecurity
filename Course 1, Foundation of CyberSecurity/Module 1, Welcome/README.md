@@ -141,7 +141,6 @@ Module-1/
 ├── notes/
 │   ├── introduction.md
 │   ├── terminology.md
-│   ├── phishing.md
 │   └── core-skills.md
 │
 ├── screenshots/
