@@ -138,6 +138,7 @@ This repository is intended for educational purposes only.
 Module-1/
 │
 ├── README.md
+├── assignments/
 ├── notes/
 │   ├── introduction.md
 │   ├── terminology.md
