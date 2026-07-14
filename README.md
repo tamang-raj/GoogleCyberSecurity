@@ -149,11 +149,8 @@ Google-Cybersecurity-Professional-Certificate/
 
 ## Course 1 – Foundations of Cybersecurity
 
-> Replace the image below with your certificate after uploading it to the repository.
-
-```markdown
 ![Course 1 Certificate](Course-1-Foundations-of-Cybersecurity/certificate/course-1-certificate.png)
-```
+
 
 ---
 
