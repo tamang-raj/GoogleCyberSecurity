@@ -136,6 +136,7 @@ This module introduced the eight CISSP domains:
 Module-2/
 │
 ├── README.md
+├── assignments/
 ├── notes/
 │   ├── history.md
 │   ├── attacks.md
