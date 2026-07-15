@@ -1,4 +1,4 @@
-# Course 1 – Module 3 Final Quiz Review
+# Course 1 – Module 3 Graded Quiz Review
 
 **Score:** ✅ **97.50% (Passed)**
 
@@ -18,12 +18,11 @@
 
 ### Explanation
 
-Security frameworks provide structured guidance to help organizations:
+Security frameworks provide organizations with structured guidance for managing cybersecurity. Their main purposes include:
 
-- Protect sensitive information, including Personally Identifiable Information (PII).
-- Align cybersecurity strategies with business objectives.
-- Identify, assess, and manage cybersecurity risks.
-- Improve regulatory compliance and overall security posture.
+- Protecting sensitive information such as Personally Identifiable Information (PII).
+- Aligning cybersecurity initiatives with organizational objectives.
+- Identifying, assessing, and reducing cybersecurity risks.
 
 ---
 
@@ -40,12 +39,13 @@ Security frameworks provide structured guidance to help organizations:
 
 ### Explanation
 
-Most cybersecurity frameworks include components that help organizations:
+Effective security frameworks include:
 
-- Develop and implement security processes.
-- Monitor the effectiveness of security controls.
-- Measure performance and communicate results.
-- Continuously improve cybersecurity practices.
+- Establishing security policies and procedures.
+- Implementing security controls and processes.
+- Continuously monitoring security performance.
+- Communicating risks and results to stakeholders.
+- Improving security through continuous assessment.
 
 ---
 
@@ -59,16 +59,18 @@ Most cybersecurity frameworks include components that help organizations:
 
 ### Explanation
 
-**Security controls** are safeguards designed to reduce risks and protect systems, data, and users.
+Security controls are safeguards designed to reduce cybersecurity risks.
 
 Examples include:
 
-- Strong password policies
+- Password policies
 - Multi-Factor Authentication (MFA)
-- Security awareness training
 - Firewalls
 - Encryption
-- Access controls
+- Security awareness training
+- Access control policies
+
+Strict password policies reduce the likelihood of unauthorized access.
 
 ---
 
@@ -82,11 +84,15 @@ Examples include:
 
 ### Explanation
 
-The **CIA Triad** consists of three fundamental principles of information security:
+The **CIA Triad** is the foundational cybersecurity model consisting of:
 
-- **Confidentiality** – Prevent unauthorized access to information.
-- **Integrity** – Ensure information remains accurate and unaltered.
-- **Availability** – Ensure authorized users have reliable access to information.
+| Principle | Purpose |
+|-----------|---------|
+| **Confidentiality** | Prevent unauthorized access to information. |
+| **Integrity** | Ensure information remains accurate, authentic, and trustworthy. |
+| **Availability** | Ensure systems and data remain accessible to authorized users. |
+
+Organizations strive to balance all three principles.
 
 ---
 
@@ -100,13 +106,15 @@ The **CIA Triad** consists of three fundamental principles of information securi
 
 ### Explanation
 
-The **Integrity** principle of the CIA Triad ensures that information is:
+Within the **Integrity** principle of the CIA Triad, data should be:
 
-- Accurate
-- Complete
+- Correct
 - Authentic
 - Reliable
-- Protected from unauthorized modification
+- Complete
+- Unaltered
+
+Integrity ensures that information has not been modified by unauthorized individuals.
 
 ---
 
@@ -124,15 +132,16 @@ The **Integrity** principle of the CIA Triad ensures that information is:
 
 ### Explanation
 
-The **NIST Cybersecurity Framework (CSF)** helps organizations improve cybersecurity by providing:
+The **NIST Cybersecurity Framework (CSF)** is a voluntary framework developed by the National Institute of Standards and Technology (NIST).
 
-- Voluntary guidance
-- Industry standards
+It provides organizations with:
+
+- Standards
+- Guidelines
 - Best practices
-- Risk management strategies
-- A structured approach to cybersecurity
+- Risk management recommendations
 
-### NIST CSF Functions (Version 2.0)
+### NIST CSF Core Functions
 
 1. Govern
 2. Identify
@@ -140,6 +149,8 @@ The **NIST Cybersecurity Framework (CSF)** helps organizations improve cybersecu
 4. Detect
 5. Respond
 6. Recover
+
+These functions help organizations build and improve their cybersecurity programs.
 
 ---
 
@@ -156,12 +167,16 @@ The **NIST Cybersecurity Framework (CSF)** helps organizations improve cybersecu
 
 ### Explanation
 
-Disgruntled employees are considered **insider threats** because they often:
+Disgruntled employees are considered **insider threats** because they already have legitimate access to organizational resources.
 
-- Already possess authorized access.
-- Understand internal systems and processes.
-- Know where valuable information is stored.
-- Can intentionally misuse their privileges.
+Their knowledge of internal systems can make them especially dangerous.
+
+Potential insider actions include:
+
+- Data theft
+- Sabotage
+- Espionage
+- Unauthorized disclosure of confidential information
 
 ---
 
@@ -175,13 +190,15 @@ Disgruntled employees are considered **insider threats** because they often:
 
 ### Explanation
 
-**Security ethics** refers to the professional principles and standards that guide cybersecurity professionals to:
+**Security ethics** refers to the principles and standards that guide cybersecurity professionals in making responsible and lawful decisions.
 
-- Act responsibly.
-- Protect organizational assets.
+Ethical cybersecurity professionals:
+
+- Follow organizational policies.
 - Respect privacy.
-- Follow laws and regulations.
-- Make ethical decisions.
+- Protect confidential information.
+- Comply with laws and regulations.
+- Avoid unauthorized activities.
 
 ---
 
@@ -195,15 +212,17 @@ Disgruntled employees are considered **insider threats** because they often:
 
 ### Explanation
 
-Privacy protection involves safeguarding personal information from unauthorized access, disclosure, or misuse.
+**Privacy protection** involves safeguarding personal information from unauthorized access, disclosure, or misuse.
 
-Examples include protecting:
+Examples of protected information include:
 
 - Employee records
 - Medical information
 - Financial data
-- Customer information
-- Personally Identifiable Information (PII)
+- Government identification numbers
+- Contact information
+
+Organizations implement access controls and security policies to protect personal data.
 
 ---
 
@@ -217,104 +236,84 @@ Examples include protecting:
 
 ### Explanation
 
-Cybersecurity laws establish legal requirements for protecting information and privacy.
+Laws establish legal requirements for protecting information and ensuring privacy.
 
 Examples include:
 
-- General Data Protection Regulation (GDPR)
-- Health Insurance Portability and Accountability Act (HIPAA)
-- California Consumer Privacy Act (CCPA)
+- GDPR (General Data Protection Regulation)
+- HIPAA (Health Insurance Portability and Accountability Act)
+- CCPA (California Consumer Privacy Act)
 
-Organizations must comply with applicable laws to protect data and avoid legal penalties.
+Organizations must comply with applicable laws to avoid penalties and protect customer information.
 
 ---
 
-# Module 3 Summary
+# Module Summary
 
 ## Security Frameworks
 
 Security frameworks help organizations:
 
-- Protect PII and sensitive data.
-- Align security with business objectives.
+- Protect sensitive information.
 - Manage cybersecurity risks.
-- Improve compliance.
-- Continuously improve security practices.
+- Align security initiatives with business objectives.
+- Improve overall security posture.
 
 ---
 
 ## Security Controls
 
-Examples include:
+Security controls reduce cybersecurity risks through:
 
-- Password policies
-- Encryption
-- Firewalls
-- Multi-Factor Authentication (MFA)
-- Security awareness training
-- Access controls
+- Administrative controls
+- Technical controls
+- Physical controls
+
+Examples include password policies, encryption, MFA, firewalls, and employee training.
 
 ---
 
 ## CIA Triad
 
-| Principle | Purpose |
-|-----------|---------|
-| **Confidentiality** | Protect information from unauthorized access |
-| **Integrity** | Ensure information is accurate, authentic, and reliable |
-| **Availability** | Ensure authorized users can access information when needed |
+| Principle | Description |
+|-----------|-------------|
+| **Confidentiality** | Protect information from unauthorized access. |
+| **Integrity** | Ensure data remains accurate, authentic, and reliable. |
+| **Availability** | Ensure authorized users can access information when needed. |
 
 ---
 
 ## NIST Cybersecurity Framework (CSF)
 
-Core Functions:
-
-- Govern
-- Identify
-- Protect
-- Detect
-- Respond
-- Recover
-
 The NIST CSF is:
 
 - Voluntary
 - Risk-based
-- Built on standards and best practices
-
----
-
-## Insider Threats
-
-Disgruntled employees can be dangerous because they:
-
-- Already have authorized access.
-- Know where sensitive information is stored.
-- Understand internal systems and processes.
+- Built on standards, guidelines, and best practices
+- Designed to help organizations identify, protect against, detect, respond to, and recover from cybersecurity incidents
 
 ---
 
 ## Security Ethics
 
-Cybersecurity professionals should:
+Cybersecurity professionals are expected to:
 
+- Follow laws and regulations.
 - Protect privacy.
-- Follow organizational policies.
-- Comply with laws and regulations.
-- Act responsibly and ethically.
 - Maintain confidentiality.
+- Act ethically and responsibly.
+- Follow organizational policies and procedures.
 
 ---
 
 # Key Takeaways
 
-- Security frameworks help manage organizational risks and align security with business goals.
-- Security controls reduce cybersecurity risks.
-- The **CIA Triad** consists of **Confidentiality, Integrity, and Availability**.
-- The **NIST CSF** provides voluntary guidance for managing cybersecurity risks.
-- Insider threats often come from individuals with legitimate access to sensitive systems.
-- Security professionals are expected to uphold ethical principles and protect personal information.
+- Security frameworks align cybersecurity efforts with business goals while protecting sensitive information and managing risk.
+- Security controls, such as password policies and MFA, reduce the likelihood of security incidents.
+- The **CIA Triad** consists of **Confidentiality, Integrity, and Availability**, with integrity ensuring data is **correct, authentic, and reliable**.
+- The **NIST Cybersecurity Framework (CSF)** is a voluntary framework built on standards, guidelines, and best practices for managing cybersecurity risk.
+- Insider threats can be particularly dangerous because authorized users already know where sensitive information is stored and have legitimate access to it.
+- Security ethics emphasize lawful behavior, confidentiality, and privacy protection when handling organizational and personal data.
 
 ---
 
@@ -324,8 +323,8 @@ Cybersecurity professionals should:
 
 **Course 1:** Foundations of Cybersecurity
 
-**Module:** 3 – Final Quiz
+**Module:** 3 – Security Frameworks, Controls, and Ethics
 
-**Score:** **97.50%** 🎉
+**Graded Quiz Score:** **97.50%** 🎉
 
 **Status:** ✅ **PASSED**

@@ -1,4 +1,4 @@
-# Course 1 – Module 3 Ethics in Cybersecurity Quiz Review
+# Course 1 – Module 3 Practice Quiz 2 Review
 
 **Score:** ✅ **93.75% (Passed)**
 
@@ -20,13 +20,13 @@ Which ethical principles does this violate?
 
 ### Explanation
 
-Leaving confidential patient information unsecured violates several important ethical and legal principles:
+Leaving confidential patient information unsecured violates multiple ethical and legal principles.
 
-- **Laws** – Many privacy laws (such as HIPAA in the U.S.) require organizations to protect sensitive information.
-- **Privacy Protections** – Personal information must be safeguarded from unauthorized access.
-- **Confidentiality** – Sensitive information should only be accessible to authorized individuals.
+- **Laws** – Many regulations require organizations to properly protect sensitive information.
+- **Privacy Protection** – Personal information must be safeguarded from unauthorized access.
+- **Confidentiality** – Sensitive information should only be available to authorized individuals.
 
-> **Remaining unbiased** is an ethical principle, but it is **not related** to this specific scenario.
+> **Note:** The missed answer was **Laws**. This question required selecting **three** correct options.
 
 ---
 
@@ -42,26 +42,27 @@ Privacy protection means safeguarding _____ from unauthorized use.
 
 ### Explanation
 
-Privacy protection involves ensuring that personal information is:
+**Privacy protection** refers to safeguarding personal information from unauthorized access, disclosure, modification, or misuse.
 
-- Collected responsibly
-- Stored securely
-- Accessed only by authorized individuals
-- Protected from unauthorized disclosure or misuse
+Examples of personal information include:
 
-Examples include:
-
-- Names
-- Email addresses
-- Phone numbers
+- Full name
+- Home address
+- Email address
+- Phone number
+- Date of birth
 - Medical records
 - Financial information
+
+Organizations use access controls, encryption, and security policies to protect this information.
 
 ---
 
 # Question 3
 
-### Your manager requests an employee's birth date through a personal text message, even though company policy prohibits sharing employee information through personal communication channels.
+### You receive a text message on your personal device from your manager requesting an employee's birth date because they cannot access the company database.
+
+Company policy states that employee information should never be shared through personal communication channels.
 
 What should you do?
 
@@ -71,21 +72,21 @@ What should you do?
 
 ### Explanation
 
-Cybersecurity professionals must follow organizational policies and procedures, regardless of who makes the request.
+Cybersecurity professionals must always follow organizational policies, regardless of who makes the request.
 
 The correct response is to:
 
-- Decline the request.
+- Respectfully decline the request.
 - Explain that it violates company policy.
-- Suggest using approved communication channels.
+- Suggest using approved communication channels instead.
 
-This protects sensitive information and maintains compliance.
+Following established procedures protects sensitive information and ensures compliance.
 
 ---
 
 # Question 4
 
-### A utility company experiences a data breach, and several hacktivist groups claim responsibility without evidence.
+### Your company experiences a data breach, and several hacktivist groups claim responsibility without evidence.
 
 What is the most ethical response?
 
@@ -95,58 +96,64 @@ What is the most ethical response?
 
 ### Explanation
 
-The ethical response focuses on defense rather than retaliation.
+Security professionals should focus on:
 
-Security professionals should:
+- Investigating the incident.
+- Collecting evidence.
+- Improving security controls.
+- Preventing future attacks.
 
-- Investigate the incident.
-- Collect evidence.
-- Strengthen security controls.
-- Improve monitoring and detection.
-- Prevent similar attacks in the future.
-
-Launching counterattacks is generally illegal for private organizations and is not considered an appropriate response.
+Launching counterattacks or retaliation is generally illegal for private organizations and does not represent ethical cybersecurity practice.
 
 ---
 
-# Ethics in Cybersecurity
+# Module Summary
 
-Cybersecurity professionals are expected to uphold high ethical standards.
+## Ethics in Cybersecurity
 
-## Core Ethical Principles
+Cybersecurity professionals are expected to act responsibly and follow ethical principles while protecting organizational assets.
+
+### Core Ethical Principles
+
+### Laws
+
+Comply with applicable laws, regulations, and organizational policies.
+
+---
 
 ### Confidentiality
 
-Protect sensitive information from unauthorized access.
+Protect sensitive information from unauthorized disclosure.
+
+---
 
 ### Privacy Protection
 
-Safeguard personal information and respect individuals' privacy rights.
+Safeguard personal information and ensure it is accessed only by authorized individuals.
 
-### Compliance with Laws
-
-Follow applicable laws, regulations, and organizational policies.
+---
 
 ### Integrity
 
-Act honestly and maintain the accuracy of information.
+Maintain the accuracy and trustworthiness of information.
+
+---
 
 ### Professional Responsibility
 
 - Follow company policies.
-- Report security concerns responsibly.
 - Protect organizational assets.
+- Report incidents responsibly.
 - Make ethical decisions.
 
 ---
 
 # Key Takeaways
 
-- Protect **PII** and **SPII** at all times.
-- Follow organizational policies, even when requests come from managers.
-- Privacy protection means safeguarding personal information from unauthorized use.
-- The ethical response to cyberattacks is to improve defenses rather than retaliate.
-- Confidentiality, legal compliance, and privacy protection are fundamental responsibilities for cybersecurity professionals.
+- Confidential information must always be protected to comply with **laws**, maintain **confidentiality**, and uphold **privacy protections**.
+- Privacy protection means safeguarding **personal information** from unauthorized access or use.
+- Security professionals should never violate organizational policies, even when requests come from managers.
+- The ethical response to a cyberattack is to strengthen defenses, investigate the incident, and prevent future attacks rather than retaliate.
 
 ---
 
@@ -158,6 +165,6 @@ Act honestly and maintain the accuracy of information.
 
 **Module:** 3 – Ethics in Cybersecurity
 
-**Quiz Score:** **93.75%** ✅
+**Practice Quiz 2 Score:** **93.75%** ✅
 
 **Status:** 🎉 **PASSED**

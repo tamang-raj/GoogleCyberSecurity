@@ -1,4 +1,4 @@
-# Course 1 – Module 3 Quiz Review
+# Course 1 – Module 3 Practice Quiz 1 Review
 
 **Score:** ✅ **100% (Passed)**
 
@@ -16,71 +16,60 @@ A security _____ is a set of guidelines used for building plans to help mitigate
 
 ### Explanation
 
-A **security framework** provides a structured set of guidelines, standards, and best practices that organizations use to:
+A **security framework** is a structured set of standards, guidelines, and best practices that organizations use to manage cybersecurity risks and protect information systems.
 
-- Manage cybersecurity risks
-- Protect information and systems
-- Develop security policies
-- Improve their overall security posture
-- Meet regulatory and industry requirements
+Security frameworks help organizations:
+
+- Identify security risks.
+- Protect sensitive information.
+- Develop security policies.
+- Meet regulatory requirements.
+- Improve their overall security posture.
 
 ### Examples of Security Frameworks
 
-- **NIST Cybersecurity Framework (CSF)**
-- **ISO/IEC 27001**
-- **CIS Critical Security Controls**
-- **COBIT**
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+- COBIT
+- CIS Controls
 
 ---
 
 # Question 2
 
-### An organization requires employees to complete annual data privacy training to reduce the risk of a data breach.
+### An organization requires its employees to complete a new data privacy training program each year to reduce the risk of a data breach.
 
-What is this an example of?
+What is this training requirement an example of?
 
 ### Correct Answer
 
-✅ **Security Control**
+✅ **Security control**
 
 ### Explanation
 
-A **security control** is a safeguard or countermeasure that reduces security risks and protects organizational assets.
+A **security control** is a safeguard or countermeasure implemented to reduce security risks.
+
+Annual security awareness training helps employees recognize threats such as phishing and social engineering, reducing the likelihood of security incidents.
 
 ### Types of Security Controls
 
-#### Administrative Controls
+- **Administrative Controls**
+  - Security policies
+  - Employee training
+  - Procedures
+  - Background checks
 
-Policies and procedures that influence employee behavior.
+- **Technical Controls**
+  - Firewalls
+  - Antivirus software
+  - Encryption
+  - Multi-Factor Authentication (MFA)
 
-**Examples:**
-
-- Security awareness training
-- Password policies
-- Acceptable use policies
-- Background checks
-
-#### Technical Controls
-
-Technology-based protections.
-
-**Examples:**
-
-- Firewalls
-- Antivirus software
-- Multi-Factor Authentication (MFA)
-- Encryption
-
-#### Physical Controls
-
-Protect physical access to facilities and equipment.
-
-**Examples:**
-
-- Security guards
-- CCTV cameras
-- Badge access systems
-- Locked server rooms
+- **Physical Controls**
+  - Security cameras
+  - Access badges
+  - Locked doors
+  - Security guards
 
 ---
 
@@ -94,40 +83,48 @@ Protect physical access to facilities and equipment.
 
 ### Explanation
 
-The **CIA Triad** is the core model of information security.
+The **CIA Triad** is one of the most fundamental models in cybersecurity. It helps organizations balance security objectives when designing systems and implementing policies.
 
-### Confidentiality
+### Components of the CIA Triad
 
-Protects information from unauthorized access.
+#### Confidentiality
+
+Ensures that information is accessible **only to authorized users**.
 
 **Examples:**
 
 - Encryption
+- Passwords
 - Access controls
-- Authentication
+- Multi-Factor Authentication (MFA)
 
 ---
 
-### Integrity
+#### Integrity
 
-Ensures information remains accurate, complete, and unaltered.
+Ensures that information remains:
+
+- Accurate
+- Authentic
+- Complete
+- Unaltered
 
 **Examples:**
 
 - Hashing
 - Digital signatures
-- Version control
+- File integrity monitoring
 
 ---
 
-### Availability
+#### Availability
 
-Ensures authorized users can access information whenever needed.
+Ensures that authorized users can access systems and data whenever needed.
 
 **Examples:**
 
-- Backups
-- Redundant systems
+- System backups
+- Redundant servers
 - Disaster recovery plans
 - Load balancing
 
@@ -143,59 +140,45 @@ Ensures authorized users can access information whenever needed.
 
 ### Explanation
 
-The **NIST Cybersecurity Framework (CSF)** is a widely used voluntary framework that helps organizations manage cybersecurity risks.
+The **NIST Cybersecurity Framework (CSF)** is a voluntary framework developed by the National Institute of Standards and Technology (NIST).
 
-It consists of standards, guidelines, and best practices for improving cybersecurity.
+It provides organizations with standards, guidelines, and best practices to manage cybersecurity risk.
 
-### The Six NIST CSF Functions (CSF 2.0)
+### NIST CSF Core Functions (Version 2.0)
 
-1. **Govern** – Establish cybersecurity governance and risk management.
-2. **Identify** – Understand assets, systems, risks, and business context.
-3. **Protect** – Implement safeguards to reduce cybersecurity risks.
-4. **Detect** – Identify cybersecurity events as quickly as possible.
-5. **Respond** – Take action during a cybersecurity incident.
-6. **Recover** – Restore systems and improve resilience after an incident.
+1. **Govern**
+2. **Identify**
+3. **Protect**
+4. **Detect**
+5. **Respond**
+6. **Recover**
 
-> **Note:** Earlier versions of the CSF included five functions (Identify, Protect, Detect, Respond, Recover). CSF 2.0 adds **Govern**.
+These functions help organizations establish, manage, and improve their cybersecurity programs over time.
 
 ---
 
-# Module 3 Summary
+# Module Summary
 
-## Security Framework
+## Security Frameworks
 
-A structured set of standards and best practices used to:
+Security frameworks provide structured guidance for:
 
-- Reduce cybersecurity risks
-- Build security programs
-- Meet compliance requirements
-- Improve organizational security
+- Managing cybersecurity risks.
+- Protecting sensitive data.
+- Meeting compliance requirements.
+- Improving security programs.
 
 ---
 
 ## Security Controls
 
-Safeguards used to protect systems and data.
+Security controls are safeguards used to reduce risks.
 
-### Administrative
+### Categories
 
-- Policies
-- Procedures
-- Training
-
-### Technical
-
-- Firewalls
-- Antivirus
-- Encryption
-- MFA
-
-### Physical
-
-- Cameras
-- Locks
-- Security guards
-- Access badges
+- **Administrative Controls** – Policies, procedures, training.
+- **Technical Controls** – Firewalls, encryption, MFA.
+- **Physical Controls** – Locks, cameras, access badges.
 
 ---
 
@@ -203,31 +186,29 @@ Safeguards used to protect systems and data.
 
 | Principle | Purpose |
 |-----------|---------|
-| **Confidentiality** | Prevent unauthorized access to information |
-| **Integrity** | Maintain data accuracy and consistency |
-| **Availability** | Ensure authorized users can access systems and data |
+| **Confidentiality** | Prevent unauthorized access to information. |
+| **Integrity** | Ensure data remains accurate, authentic, and unaltered. |
+| **Availability** | Ensure authorized users can access information when needed. |
 
 ---
 
 ## NIST Cybersecurity Framework (CSF)
 
-Core Functions:
+The NIST CSF is:
 
-- Govern
-- Identify
-- Protect
-- Detect
-- Respond
-- Recover
+- Voluntary
+- Risk-based
+- Built on standards, guidelines, and best practices
+- Designed to help organizations manage and reduce cybersecurity risks
 
 ---
 
 # Key Takeaways
 
 - A **security framework** provides structured guidance for managing cybersecurity risks.
-- **Security controls** are safeguards that reduce security risks.
-- The **CIA Triad** is the foundation of information security.
-- The **NIST CSF** helps organizations manage cybersecurity risk through six core functions.
+- **Security controls** are safeguards that reduce or mitigate specific security risks.
+- The **CIA Triad**—Confidentiality, Integrity, and Availability—is a foundational model for designing secure systems and policies.
+- The **NIST Cybersecurity Framework (CSF)** provides a voluntary, risk-based approach to managing cybersecurity through six core functions: **Govern, Identify, Protect, Detect, Respond, and Recover**.
 
 ---
 
@@ -237,8 +218,8 @@ Core Functions:
 
 **Course 1:** Foundations of Cybersecurity
 
-**Module:** 3 – Protect Against Threats, Risks, and Vulnerabilities
+**Module:** 3 – Security Frameworks and Controls
 
-**Quiz Score:** **100%** 🎉
+**Practice Quiz 1 Score:** **100%** 🎉
 
 **Status:** ✅ **PASSED**
