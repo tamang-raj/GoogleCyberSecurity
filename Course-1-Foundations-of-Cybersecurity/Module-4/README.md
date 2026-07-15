@@ -178,16 +178,12 @@ Portfolio components include:
 Module-4/
 │
 ├── README.md
+├── assignments/
 ├── notes/
 │   ├── cybersecurity-tools.md
-│   ├── linux.md
-│   ├── sql.md
-│   ├── python.md
+│   ├── programming-OS-tools.md
 │   ├── portfolio.md
 │   └── glossary.md
-│
-├── projects/
-│   └── professional-statement.md
 │
 ├── screenshots/
 │
