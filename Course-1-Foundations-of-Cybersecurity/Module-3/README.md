@@ -151,10 +151,9 @@ This module emphasized ethical behavior and professional responsibility in cyber
 Module-3/
 │
 ├── README.md
+├── assignments/
 ├── notes/
-│   ├── frameworks.md
-│   ├── controls.md
-│   ├── compliance.md
+│   ├── frameworks-controls-compliance.md
 │   ├── ethics.md
 │   ├── secure-design.md
 │   └── glossary.md
