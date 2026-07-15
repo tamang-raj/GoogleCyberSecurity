@@ -1,203 +1,55 @@
-# Course 1 – Module 4 Practice Quiz 2 Review
+# Module Quiz Answers (Programming & Operating Systems) – Score: **100%**
 
-**Score:** ✅ **100% (Passed)**
+## Questions and Answers
 
----
+### 1. What do security professionals use to interact with and request information from a database?
 
-# Question 1
+**Answer:** ✅ **Structured Query Language (SQL)**
 
-### What do security professionals use to interact with and request information from a database?
-
-### Correct Answer
-
-✅ **Structured Query Language (SQL)**
-
-### Explanation
-
-**Structured Query Language (SQL)** is the standard language used to communicate with relational databases.
-
-Cybersecurity professionals use SQL to:
-
-- Query databases.
-- Retrieve security-related information.
-- Investigate incidents.
-- Analyze logs stored in databases.
-- Generate reports.
-
-### Common SQL Commands
-
-| Command | Purpose |
-|----------|---------|
-| `SELECT` | Retrieve data |
-| `INSERT` | Add new records |
-| `UPDATE` | Modify existing records |
-| `DELETE` | Remove records |
-| `CREATE` | Create a new table or database |
-| `DROP` | Delete a table or database |
+**Explanation:**  
+Structured Query Language (SQL) is the standard language used to communicate with databases. Security professionals use SQL to retrieve, manage, update, and analyze stored data during investigations and security monitoring.
 
 ---
 
-# Question 2
+### 2. What is programming typically used for? *(Select two answers.)*
 
-### What is programming typically used for?
+**Answers:**
+- ✅ **Complete repetitive tasks and processes**
+- ✅ **Create a specific set of instructions for a computer to execute tasks**
 
-**Select two answers.**
-
-### Correct Answers
-
-- ✅ Complete repetitive tasks and processes
-- ✅ Create a specific set of instructions for a computer to execute tasks
-
-### Explanation
-
-Programming enables cybersecurity professionals to:
-
-- Automate repetitive work.
-- Analyze large amounts of data.
-- Build security tools.
-- Write scripts for incident response.
-- Detect vulnerabilities.
-- Improve efficiency.
-
-### Common Programming Languages in Cybersecurity
-
-- Python
-- Bash
-- PowerShell
-- JavaScript
-- C
-- C++
-- Java
+**Explanation:**  
+Programming enables cybersecurity professionals to automate repetitive tasks, reduce human error, and create scripts or applications that perform specific security functions efficiently.
 
 ---
 
-# Question 3
+### 3. Fill in the blank: Linux is an open-source _____ that can be used to examine logs.
 
-### Fill in the blank:
+**Answer:** ✅ **Operating System**
 
-Linux is an open-source _____ that can be used to examine logs.
-
-### Correct Answer
-
-✅ **Operating System**
-
-### Explanation
-
-**Linux** is a free and open-source operating system widely used in cybersecurity.
-
-Security professionals use Linux to:
-
-- Examine log files.
-- Monitor systems.
-- Perform forensic analysis.
-- Run security tools.
-- Configure servers.
-- Conduct penetration testing.
-
-### Popular Linux Distributions
-
-- Ubuntu
-- Debian
-- Fedora
-- Kali Linux
-- Red Hat Enterprise Linux (RHEL)
+**Explanation:**  
+Linux is an open-source operating system widely used in cybersecurity. It provides powerful command-line tools that allow analysts to examine logs, monitor systems, and perform security investigations.
 
 ---
 
-# Question 4
+### 4. A playbook is a manual that only provides details about how to respond to an incident.
 
-### A playbook is a manual that only provides details about how to respond to an incident.
+**Answer:** ✅ **False**
 
-### Correct Answer
-
-✅ **False**
-
-### Explanation
-
-A **playbook** is a documented guide that outlines operational actions for various cybersecurity activities.
-
-A playbook may include:
-
-- Incident response procedures.
-- Investigation steps.
-- Escalation processes.
-- Communication guidelines.
-- Recovery procedures.
-- Routine operational workflows.
-
-It is **not limited** to incident response alone.
+**Explanation:**  
+A playbook provides guidance for operational actions before, during, and after security incidents. It includes procedures, workflows, responsibilities, and best practices—not just incident response.
 
 ---
 
-# Module 4 Summary
+# Final Answers
 
-## Structured Query Language (SQL)
-
-SQL is used to:
-
-- Query databases.
-- Retrieve records.
-- Analyze security data.
-- Investigate incidents.
-- Generate reports.
-
----
-
-## Programming
-
-Programming helps security professionals:
-
-- Automate repetitive tasks.
-- Create scripts and tools.
-- Analyze data.
-- Improve operational efficiency.
-- Build custom security solutions.
-
----
-
-## Linux
-
-Linux is an open-source operating system commonly used in cybersecurity for:
-
-- Log analysis.
-- System administration.
-- Security monitoring.
-- Penetration testing.
-- Incident response.
-
----
-
-## Playbooks
-
-A playbook is a documented guide that provides standardized procedures for operational tasks, including but not limited to incident response.
-
-Benefits include:
-
-- Consistent workflows.
-- Faster response times.
-- Improved collaboration.
-- Reduced human error.
-- Better incident management.
-
----
-
-# Key Takeaways
-
-- **SQL** is the standard language for interacting with relational databases.
-- Programming is used to automate tasks and provide computers with instructions to perform specific operations.
-- **Linux** is an open-source operating system widely used in cybersecurity.
-- A **playbook** documents operational procedures and is not limited to incident response.
+1. ✅ Structured Query Language (SQL)
+2. ✅ Complete repetitive tasks and processes  
+   ✅ Create a specific set of instructions for a computer to execute tasks
+3. ✅ Operating System
+4. ✅ False
 
 ---
 
 # Result
 
-**Course:** Google Cybersecurity Professional Certificate
-
-**Course 1:** Foundations of Cybersecurity
-
-**Module:** 4 – Cybersecurity Tools and Programming Languages
-
-**Practice Quiz 2 Score:** **100%** 🎉
-
-**Status:** ✅ **PASSED**
+**Score:** **100% ✅ PASSED**
