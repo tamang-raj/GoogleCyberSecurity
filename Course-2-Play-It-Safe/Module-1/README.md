@@ -1,7 +1,7 @@
 # Google Cybersecurity Professional Certificate
 ## Course 2 - Module 1: More About the CISSP Security Domains
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Coursera-0056D2)
 ![Provider](https://img.shields.io/badge/Provider-Google-4285F4)
 ![Course](https://img.shields.io/badge/Course-2-blue)
@@ -187,9 +187,8 @@ Module-1/
 ├── README.md
 ├── notes/
 │   ├── cissp-domains.md
-│   ├── threats.md
-│   ├── risks.md
-│   ├── vulnerabilities.md
+│   ├── threats-risks-vulnerabilities.md
+│   ├── risks-managements.md
 │   ├── nist-rmf.md
 │   └── glossary.md
 │
