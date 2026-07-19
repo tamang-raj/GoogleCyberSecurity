@@ -314,3 +314,315 @@ Security depends on **proper configuration and maintenance**, not whether the so
 ## 🎯 Summary
 
 Security analysts work with a variety of SIEM solutions depending on organizational needs. Self-hosted tools like **Splunk Enterprise** provide full control over infrastructure, while **Splunk Cloud** and **Google Chronicle (Google SecOps)** offer scalable cloud-based security monitoring. Alongside SIEM platforms, cybersecurity professionals use both **open-source** tools like **Linux** and **Suricata** and **proprietary** solutions, selecting the right tools based on security requirements, budget, scalability, and operational needs.
+
+
+# SIEM Dashboards: Splunk & Chronicle
+
+## 📖 Overview
+This lesson explains how **SIEM dashboards** help cybersecurity professionals monitor, investigate, and respond to security threats. It focuses on commonly used dashboards in **Splunk** and **Google Chronicle (Google SecOps)**, showing how they visualize security data to improve threat detection and incident response.
+
+---
+
+# Why SIEM Dashboards Matter
+
+SIEM dashboards transform massive amounts of log data into visual reports, enabling security analysts to quickly identify:
+
+- Security threats
+- Risks
+- Vulnerabilities
+- Suspicious user activity
+- Indicators of compromise (IOCs)
+- Security trends
+
+Instead of manually reviewing thousands of logs, analysts can use dashboards to gain immediate insight into an organization's security posture.
+
+---
+
+# Splunk SIEM Dashboards
+
+Splunk provides several dashboards designed to support Security Operations Centers (SOCs) and security analysts.
+
+---
+
+## 1. Security Posture Dashboard
+
+### Purpose
+The **Security Posture Dashboard** gives analysts a real-time overview of the organization's security health.
+
+### Displays
+
+- Recent security events
+- Active security alerts
+- Security trends
+- Threat activity
+- Incident summaries
+
+### Benefits
+
+- Monitor security events in real time
+- Detect abnormal behavior quickly
+- Investigate potential threats
+- Track changes in overall security posture
+
+### Common Users
+
+- SOC Analysts
+- Incident Responders
+- Security Engineers
+
+---
+
+## Example
+
+A sudden increase in failed login attempts appears on the dashboard.
+
+The analyst can immediately:
+
+- Investigate affected accounts
+- Determine the source IP
+- Block suspicious activity
+- Escalate the incident if necessary
+
+---
+
+## 2. Risk Analysis Dashboard
+
+### Purpose
+
+The **Risk Analysis Dashboard** helps analysts identify and prioritize high-risk objects within an organization.
+
+---
+
+### Objects Monitored
+
+Examples include:
+
+- Users
+- Computers
+- Servers
+- IP addresses
+- Devices
+
+---
+
+### Displays
+
+- Risk scores
+- Risk trends
+- Suspicious activities
+- Object-specific alerts
+- Historical risk changes
+
+---
+
+### Benefits
+
+- Identify high-risk users
+- Detect compromised devices
+- Prioritize investigations
+- Improve risk management
+
+---
+
+## Example
+
+A user account suddenly shows:
+
+- Multiple failed logins
+- Login attempts from another country
+- Unusual administrative actions
+
+The dashboard increases that user's **risk score**, allowing analysts to investigate before an attack escalates.
+
+---
+
+# Chronicle (Google SecOps) SIEM Dashboards
+
+Google Chronicle (Google SecOps) includes dashboards focused on cloud-scale threat detection and investigation.
+
+---
+
+## 1. Enterprise Insights Dashboard
+
+### Purpose
+
+Provides a centralized view of important security alerts and threat intelligence.
+
+---
+
+### Displays
+
+- Recent alerts
+- Indicators of Compromise (IOCs)
+- Suspicious domains
+- Threat severity
+- Confidence scores
+
+---
+
+### Indicators of Compromise (IOCs)
+
+An **Indicator of Compromise (IOC)** is evidence suggesting that a system may have been compromised.
+
+Examples include:
+
+- Malicious domains
+- Suspicious IP addresses
+- Malware hashes
+- Command-and-control servers
+
+---
+
+### Confidence Score
+
+A **confidence score** estimates how likely an alert represents a genuine security threat.
+
+Higher confidence = Greater likelihood of malicious activity.
+
+---
+
+### Severity Levels
+
+Threats are commonly categorized as:
+
+- Low
+- Medium
+- High
+- Critical
+
+This helps analysts prioritize incidents.
+
+---
+
+### Benefits
+
+- Faster threat detection
+- Prioritized investigations
+- Better visibility into attack activity
+- Integration with threat intelligence
+
+---
+
+## Example
+
+The dashboard identifies a domain that matches known phishing infrastructure.
+
+It displays:
+
+- High confidence score
+- Critical severity
+- Affected systems
+
+The analyst immediately begins incident response.
+
+---
+
+## 2. User Sign-in Overview Dashboard
+
+### Purpose
+
+Monitors user authentication behavior to identify suspicious login activity.
+
+---
+
+### Displays
+
+- Login history
+- Login locations
+- Authentication methods
+- Failed login attempts
+- Successful logins
+- Geographic information
+
+---
+
+### Detects
+
+- Impossible travel
+- Simultaneous logins
+- Brute-force attacks
+- Compromised accounts
+- Unauthorized access
+
+---
+
+## Example
+
+A user logs in from:
+
+- Nepal at 9:00 AM
+- Germany at 9:10 AM
+
+The dashboard flags this as **impossible travel**, suggesting account compromise.
+
+---
+
+# Splunk vs Chronicle Dashboards
+
+| Feature | Splunk | Chronicle (Google SecOps) |
+|---------|---------|----------------------------|
+| Security Posture Dashboard | ✅ | ❌ |
+| Risk Analysis Dashboard | ✅ | ❌ |
+| Enterprise Insights Dashboard | ❌ | ✅ |
+| User Sign-in Overview | ❌ | ✅ |
+| Risk Scoring | ✅ | ✅ |
+| Threat Intelligence | Moderate | Advanced |
+| Cloud Native | Limited | Yes |
+
+---
+
+# SIEM Dashboard Workflow
+
+```
+Log Sources
+(Firewalls, Servers,
+Applications, Endpoints)
+          │
+          ▼
+      SIEM Platform
+          │
+          ▼
+Dashboard Visualization
+          │
+          ▼
+Security Analyst Reviews
+          │
+          ▼
+Threat Investigation
+          │
+          ▼
+Incident Response
+```
+
+---
+
+# Key Terms
+
+| Term | Definition |
+|------|------------|
+| **Security Posture Dashboard** | Splunk dashboard showing overall security health and recent security events. |
+| **Risk Analysis Dashboard** | Splunk dashboard that monitors risk scores for users, devices, and IP addresses. |
+| **Enterprise Insights Dashboard** | Chronicle dashboard displaying alerts, indicators of compromise, and threat intelligence. |
+| **User Sign-in Overview Dashboard** | Chronicle dashboard monitoring user login behavior and authentication activity. |
+| **Indicator of Compromise (IOC)** | Evidence that suggests a system or account has been compromised. |
+| **Risk Score** | A numerical value representing the likelihood that an object poses a security risk. |
+| **Confidence Score** | A measure indicating how likely an alert represents a real threat. |
+| **Severity Level** | A classification of a threat's importance (Low, Medium, High, Critical). |
+
+---
+
+# Key Takeaways
+
+- SIEM dashboards provide visual insights into an organization's security events and threats.
+- **Splunk Security Posture Dashboard** helps monitor overall security health and investigate active incidents.
+- **Splunk Risk Analysis Dashboard** assigns risk scores to users, devices, and IP addresses to prioritize investigations.
+- **Chronicle Enterprise Insights Dashboard** displays alerts, indicators of compromise, confidence scores, and threat severity.
+- **Chronicle User Sign-in Overview Dashboard** monitors user authentication behavior to detect suspicious login activity.
+- Risk scores, confidence scores, and severity levels help analysts prioritize incident response.
+- SIEM dashboards improve visibility, accelerate investigations, and strengthen an organization's overall security posture.
+
+---
+
+## 🎯 Summary
+
+SIEM dashboards are essential tools for modern Security Operations Centers (SOCs), enabling analysts to visualize security events, monitor risks, and investigate threats efficiently. **Splunk** focuses on security posture and risk analysis, while **Google Chronicle (Google SecOps)** emphasizes cloud-scale threat intelligence and user authentication monitoring. Together, these dashboards provide real-time visibility, improve threat detection, and support faster, more informed incident response.
