@@ -1,7 +1,7 @@
 # Google Cybersecurity Professional Certificate
 ## Course 2 - Module 2: More About Frameworks and Controls
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Coursera-0056D2)
 ![Provider](https://img.shields.io/badge/Provider-Google-4285F4)
 ![Course](https://img.shields.io/badge/Course-2-blue)
@@ -235,17 +235,16 @@ Topics covered include:
 Module-2/
 │
 ├── README.md
+├── assignments/
 ├── notes/
 │   ├── frameworks.md
 │   ├── controls.md
-│   ├── cia-triad.md
-│   ├── nist-csf.md
+│   ├── relations-controls-frameworks.md
+│   ├── CIA.md
+│   ├── nist.md
 │   ├── owasp.md
 │   ├── security-audit.md
 │   └── glossary.md
-│
-├── portfolio/
-│   └── security-audit/
 │
 ├── screenshots/
 │
