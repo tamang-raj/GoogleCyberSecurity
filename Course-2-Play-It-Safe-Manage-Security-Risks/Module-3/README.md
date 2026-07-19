@@ -196,11 +196,10 @@ Module-3/
 │
 ├── README.md
 ├── notes/
-│   ├── siem.md
-│   ├── logs.md
-│   ├── dashboards.md
-│   ├── threat-detection.md
-│   ├── siem-tools.md
+│   ├── future-of-siem.md
+│   ├── logs-siem.md
+│   ├── siem-dashboards.md
+│   ├── siem-tools-and-more.md
 │   └── glossary.md
 │
 ├── screenshots/
