@@ -1,7 +1,7 @@
 # Google Cybersecurity Professional Certificate
 ## Course 2 – Module 3: Introduction to Cybersecurity Tools
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Coursera-0056D2)
 ![Provider](https://img.shields.io/badge/Provider-Google-4285F4)
 ![Course](https://img.shields.io/badge/Course-2-blue)
@@ -183,7 +183,7 @@ Modern SIEM platforms continue to evolve through:
 | Using SIEM to Protect Organizations | ✅ Completed |
 | Knowledge Check | ✅ Completed |
 | Coach Dialogue | ✅ Completed |
-| Module Challenge | ⏳ In Progress |
+| Module Challenge | ✅ In Progress |
 
 > **Update the Module Challenge score after completing the assessment.**
 

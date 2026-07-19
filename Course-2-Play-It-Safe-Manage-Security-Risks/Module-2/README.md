@@ -223,7 +223,7 @@ Topics covered include:
 | OWASP Security Principles | ✅ |
 | Security Audits | ✅ |
 | Portfolio Activity | ✅ |
-| Module Challenge | ⏳ In Progress |
+| Module Challenge | ✅ In Progress |
 
 > Update the status and challenge score after completing the module.
 
