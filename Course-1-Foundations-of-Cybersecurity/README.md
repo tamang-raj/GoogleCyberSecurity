@@ -69,12 +69,6 @@ Course-1-Foundations-of-Cybersecurity/
 
 > Successfully completed **Course 1: Foundations of Cybersecurity** from the **Google Cybersecurity Professional Certificate**.
 
-### 📜 Course Certificate
-
-![Course Certificate](certificate/course-1-certificate.png)
-
----
-
 # 📝 Course Summary
 
 During this course, I learned how cybersecurity professionals protect organizations, systems, and sensitive data from cyber threats.

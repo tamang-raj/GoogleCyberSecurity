@@ -209,16 +209,12 @@ Important skills include:
 Module-4/
 │
 ├── README.md
+├── assignments/
 ├── notes/
-│   ├── incident-response.md
-│   ├── playbooks.md
-│   ├── siem.md
-│   ├── soar.md
-│   ├── incident-lifecycle.md
+│   ├── incident-response-and-playbooks.md
+│   ├── playbooks-fields.md
+│   ├── siem-tools-and-playbooks.md
 │   └── glossary.md
-│
-├── labs/
-│   └── respond-to-siem-alert.md
 │
 ├── screenshots/
 │
