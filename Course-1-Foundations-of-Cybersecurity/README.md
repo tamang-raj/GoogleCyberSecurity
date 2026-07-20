@@ -51,9 +51,6 @@ Course-1-Foundations-of-Cybersecurity/
 │
 ├── README.md
 │
-├── certificate/
-│   └── course-1-certificate.png
-│
 ├── Module-1/
 │
 ├── Module-2/

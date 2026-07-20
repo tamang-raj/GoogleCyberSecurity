@@ -102,19 +102,14 @@ Google-Cybersecurity-Professional-Certificate/
 - ✅ Module 3 – Protect Against Threats, Risks, and Vulnerabilities
 - ✅ Module 4 – Cybersecurity Tools and Programming Languages
 
-### Skills Learned
+## ✅ Course 2 – Play it Safe: Manage Security Risk
 
-- Cybersecurity Fundamentals
-- Security Frameworks
-- Security Controls
-- Ethics in Cybersecurity
-- Linux Basics
-- SQL Basics
-- Python Basics
-- SIEM
-- IDS / IPS
-- Security Monitoring
-- Professional Portfolio Development
+### Modules
+
+- ✅ Module 1 – Security domains
+- ✅ Module 2 – Security frameworks and controls
+- ✅ Module 3 – Introduction to Cybersecurity tools
+- ✅ Module 4 – Use Playbooks to Respond to Incidents
 
 ---
 
@@ -151,9 +146,9 @@ Google-Cybersecurity-Professional-Certificate/
 
 ![Course 1 Certificate](Certificate/course-2-certificate.png)
 
-## Course 1 – Foundations of Cybersecurity
+## Course 2 – Play it Safe- Manage Security Risk
 
-![Course 1 Certificate](Certificate/course-2-certificate.png)
+![Course 2 Certificate](Certificate/course-2-certificate.png)
 
 
 ---
@@ -176,6 +171,7 @@ My long-term goal is to become a:
 # 📈 Progress
 
 - ✅ Course 1 Completed
+- ✅ Course 2 Completed
 - ⏳ Continuing through the remaining courses
 - 🚀 Expanding this repository with notes, labs, projects, and certifications
 
