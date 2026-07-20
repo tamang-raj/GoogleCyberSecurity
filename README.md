@@ -65,10 +65,10 @@ Throughout this certificate, I am developing skills in:
 Google-Cybersecurity-Professional-Certificate/
 │
 ├── README.md
+├── Certificates/
 │
 ├── Course-1-Foundations-of-Cybersecurity/
 │   ├── README.md
-│   ├── certificate/
 │   ├── Module-1/
 │   ├── Module-2/
 │   ├── Module-3/
@@ -149,7 +149,11 @@ Google-Cybersecurity-Professional-Certificate/
 
 ## Course 1 – Foundations of Cybersecurity
 
-![Course 1 Certificate](Course-1-Foundations-of-Cybersecurity/certificate/course-1-certificate.png)
+![Course 1 Certificate](Certificate/course-2-certificate.png)
+
+## Course 1 – Foundations of Cybersecurity
+
+![Course 1 Certificate](Certificate/course-2-certificate.png)
 
 
 ---
