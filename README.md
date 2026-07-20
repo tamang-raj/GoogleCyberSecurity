@@ -49,8 +49,8 @@ Throughout this certificate, I am developing skills in:
 | Course | Status |
 |---------|--------|
 | ✅ Course 1 – Foundations of Cybersecurity | Completed |
-| ✅ Course 2 – Play It Safe: Manage Security Risks | In Progress |
-| ⏳ Course 3 – Connect and Protect: Networks and Network Security | Not Started |
+| ✅ Course 2 – Play It Safe: Manage Security Risks | Completed |
+| ⏳ Course 3 – Connect and Protect: Networks and Network Security | In Progress |
 | ⬜ Course 4 – Tools of the Trade: Linux and SQL | Not Started |
 | ⬜ Course 5 – Assets, Threats, and Vulnerabilities | Not Started |
 | ⬜ Course 6 – Sound the Alarm: Detection and Response | Not Started |
