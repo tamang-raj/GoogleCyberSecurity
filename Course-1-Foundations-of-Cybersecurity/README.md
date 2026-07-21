@@ -16,23 +16,6 @@ Throughout this course, I built a strong foundation in cybersecurity by learning
 
 ---
 
-## 🎯 Skills Gained
-
-- Cybersecurity Fundamentals
-- Cyber Threat Analysis
-- Risk Management
-- Security Controls
-- Security Frameworks
-- Ethics in Cybersecurity
-- Linux Fundamentals
-- SQL Fundamentals
-- Python Fundamentals
-- Security Monitoring
-- Professional Documentation
-- Cybersecurity Portfolio Development
-
----
-
 # 📚 Course Modules
 
 | Module | Topic | Status |
@@ -43,28 +26,6 @@ Throughout this course, I built a strong foundation in cybersecurity by learning
 | ✅ Module 4 | Cybersecurity Tools and Programming Languages | Completed |
 
 ---
-
-# 📂 Repository Structure
-
-```
-Course-1-Foundations-of-Cybersecurity/
-│
-├── README.md
-│
-├── Module-1/
-│
-├── Module-2/
-│
-├── Module-3/
-│
-├── Module-4/
-```
-
----
-
-# 🏆 Certificate
-
-> Successfully completed **Course 1: Foundations of Cybersecurity** from the **Google Cybersecurity Professional Certificate**.
 
 # 📝 Course Summary
 
@@ -85,56 +46,6 @@ Key topics included:
 - Python basics
 - SIEM, IDS, IPS, and EDR tools
 - Building a cybersecurity portfolio
-
----
-
-# 🛠 Tools & Technologies
-
-- Linux
-- SQL
-- Python
-- SIEM
-- IDS
-- IPS
-- EDR
-- Git
-- GitHub
-
----
-
-# 🎯 My Goal
-
-I am currently completing the **Google Cybersecurity Professional Certificate** to build practical cybersecurity skills and prepare for roles such as:
-
-- Cybersecurity Analyst
-- SOC Analyst
-- Security Engineer
-- Incident Responder
-- Ethical Hacker
-- Penetration Tester
-
----
-
-# 🚀 Next Course
-
-**Course 2: Play It Safe – Manage Security Risks**
-
-Topics include:
-
-- Security Governance
-- Risk Assessment
-- Compliance
-- Security Audits
-- Risk Management
-- Asset Security
-
----
-
-# 🙏 Acknowledgements
-
-- Google
-- Coursera
-- Google Cybersecurity Professional Certificate Team
 
 ---
 
