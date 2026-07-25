@@ -1,37 +1,5 @@
 # Interception Attacks: Packet Sniffing & IP Spoofing
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Connect and Protect: Networks and Network Security**
-
-![Topic](https://img.shields.io/badge/Topic-Interception%20Attacks-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Notes-Complete-brightgreen)
-
----
-
-# 📖 Overview
-
-Interception attacks occur when a malicious actor secretly captures, monitors, or manipulates data as it travels across a network. Two of the most common interception attacks are **packet sniffing** and **IP spoofing**.
-
-Attackers use these techniques to steal sensitive information, impersonate trusted devices, redirect network traffic, or launch denial-of-service attacks. Cybersecurity professionals defend against these threats using encryption, firewalls, network monitoring, and layered security controls.
-
----
-
-# 🎯 Learning Objectives
-
-After studying this topic, I can:
-
-- Explain interception attacks
-- Describe packet sniffing
-- Understand Network Interface Card (NIC) promiscuous mode
-- Explain IP spoofing
-- Identify on-path (Man-in-the-Middle) attacks
-- Understand Smurf attacks
-- Explain how DoS attacks relate to IP spoofing
-- Apply defensive strategies against interception attacks
-
----
-
 # 🕵️ What Are Interception Attacks?
 
 An **interception attack** occurs when an attacker secretly captures or manipulates data while it is traveling across a network.

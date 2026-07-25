@@ -1,34 +1,5 @@
 # Packet Sniffing
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Connect and Protect: Networks and Network Security**
-
-![Topic](https://img.shields.io/badge/Topic-Packet%20Sniffing-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Notes-Complete-brightgreen)
-
----
-
-# 📖 Overview
-
-Packet sniffing is a technique used to capture and inspect network traffic as data travels across a network. While it is an important tool for network administrators and cybersecurity professionals, attackers can also use it to intercept sensitive information such as usernames, passwords, financial information, and personal messages.
-
-Understanding packet sniffing helps security professionals recognize network risks and implement appropriate protections.
-
----
-
-# 🎯 Learning Objectives
-
-After studying this topic, I can:
-
-- Define packet sniffing
-- Explain how packet sniffers work
-- Differentiate between passive and active packet sniffing
-- Identify information that attackers target
-- Explain methods used to prevent packet sniffing attacks
-- Understand the importance of encrypted communication
-
----
 
 # 📦 What is Packet Sniffing?
 

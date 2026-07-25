@@ -1,33 +1,5 @@
 # Network Protocol Analyzers (Packet Sniffers)
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Module 3**
-
-![Course](https://img.shields.io/badge/Course-Google%20Cybersecurity-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Notes](https://img.shields.io/badge/Type-Study%20Notes-orange)
-
----
-
-# 📖 Overview
-
-This lesson introduces **Network Protocol Analyzers**, also known as **packet sniffers**, which are essential tools used by cybersecurity professionals to capture, inspect, and analyze network traffic. It also covers **tcpdump**, a lightweight command-line packet analyzer commonly used on Linux systems.
-
----
-
-# 🎯 Learning Objectives
-
-After completing this lesson, you should be able to:
-
-- Define a network protocol analyzer.
-- Explain the purpose of packet sniffers.
-- Identify common network protocol analyzer tools.
-- Understand the features of **tcpdump**.
-- Recognize both the legitimate and malicious uses of packet analyzers.
-
----
-
 # 🌐 What is a Network Protocol Analyzer?
 
 A **Network Protocol Analyzer**, also called a **packet sniffer**, is a tool used to:
@@ -174,12 +146,3 @@ Although these tools are invaluable for network defense, attackers can also misu
 - Attackers may misuse packet analyzers to capture sensitive information.
 
 ---
-
-## 📖 Module Information
-
-- **Course:** Google Cybersecurity Professional Certificate
-- **Course Number:** Course 3
-- **Module:** Module 3
-- **Topic:** Network Protocol Analyzers (tcpdump)
-- **Status:** ✅ Completed
-```

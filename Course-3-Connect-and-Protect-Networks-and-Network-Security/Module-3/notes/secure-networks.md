@@ -1,34 +1,5 @@
 # Secure Networks and Common Network Attacks
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Module 3**
-
-![Course](https://img.shields.io/badge/Course-Google%20Cybersecurity-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Notes](https://img.shields.io/badge/Type-Study%20Notes-orange)
-
----
-
-# 📖 Overview
-
-This module introduces the importance of securing computer networks against cyber threats. It explains why networks are attractive targets for attackers, the common methods used to compromise networks, and the potential impact of successful attacks on organizations.
-
-Understanding these threats is fundamental for cybersecurity professionals responsible for protecting organizational assets and maintaining secure network operations.
-
----
-
-# 🎯 Learning Objectives
-
-After completing this module, you should be able to:
-
-- Explain why network security is essential.
-- Identify common network attacks.
-- Understand how attackers exploit network vulnerabilities.
-- Recognize the business impact of cyberattacks.
-- Understand the importance of implementing strong security controls.
-
----
 
 # 🌐 Why Secure Networks Matter
 
@@ -175,11 +146,3 @@ Understanding these attack methods enables security professionals to better iden
 - Strong network security is essential for protecting organizational assets.
 
 ---
-
-## 📖 Module Information
-
-- **Course:** Google Cybersecurity Professional Certificate
-- **Course Number:** Course 3
-- **Module:** Module 3
-- **Topic:** Secure Networks and Common Network Attacks
-- **Status:** ✅ Completed

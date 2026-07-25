@@ -1,36 +1,5 @@
 # Network Attacks: Packet Sniffing, IP Spoofing & Denial of Service (DoS)
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Connect and Protect: Networks and Network Security**  
-> **Module 3 – Common Network Attacks**
-
-![Course](https://img.shields.io/badge/Google-Cybersecurity-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Notes-Complete-brightgreen)
-
----
-
-# 📖 Overview
-
-Modern computer networks are constantly exposed to cyberattacks. Threat actors attempt to steal sensitive information, impersonate trusted devices, interrupt communications, or make services unavailable.
-
-This module introduces several common network attacks, including **packet sniffing**, **IP spoofing**, **Denial of Service (DoS)** attacks, and their variants. It also covers defensive strategies such as encryption, firewalls, and defense-in-depth.
-
----
-
-# 🎯 Learning Objectives
-
-After completing this module, I can:
-
-- Explain packet sniffing and its types
-- Describe how IP spoofing works
-- Understand replay and on-path attacks
-- Differentiate DoS and DDoS attacks
-- Identify common DoS attacks such as SYN Flood, ICMP Flood, Ping of Death, and Smurf attacks
-- Explain the purpose of botnets
-- Identify methods used to defend against network attacks
-
----
 
 # 🌐 Why Network Security Matters
 

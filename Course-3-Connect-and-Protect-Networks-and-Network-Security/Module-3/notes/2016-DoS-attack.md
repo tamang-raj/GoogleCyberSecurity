@@ -1,35 +1,5 @@
 # The 2016 DDoS Attack on DNS Servers
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Module 3**
-
-![Course](https://img.shields.io/badge/Course-Google%20Cybersecurity-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Topic](https://img.shields.io/badge/Topic-DDoS%20Attack-red)
-
----
-
-# 📖 Overview
-
-This lesson examines a major **Distributed Denial of Service (DDoS)** attack that occurred in **2016**, targeting a **Domain Name System (DNS)** service provider. The attack disrupted internet access across North America and Europe by overwhelming DNS servers with massive amounts of traffic.
-
-The incident highlights how DDoS attacks can significantly impact organizations, internet services, and millions of users worldwide.
-
----
-
-# 🎯 Learning Objectives
-
-After completing this lesson, you should be able to:
-
-- Explain the 2016 DDoS attack.
-- Understand how botnets are used in DDoS attacks.
-- Describe the role of DNS servers.
-- Explain why DNS services are critical to the internet.
-- Recognize the impact of DDoS attacks on organizations.
-- Understand why security analysts must prepare for these attacks.
-
----
 
 # 🌐 What Happened in 2016?
 
@@ -169,11 +139,3 @@ This incident demonstrates the importance of DNS infrastructure and highlights t
 - Security analysts should understand DDoS attacks to improve network protection and mitigation strategies.
 
 ---
-
-## 📖 Module Information
-
-- **Course:** Google Cybersecurity Professional Certificate
-- **Course Number:** Course 3
-- **Module:** Module 3
-- **Topic:** The 2016 DDoS Attack on DNS Servers
-- **Status:** ✅ Completed

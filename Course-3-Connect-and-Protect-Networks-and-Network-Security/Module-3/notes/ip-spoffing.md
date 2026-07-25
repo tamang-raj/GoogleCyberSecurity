@@ -1,35 +1,5 @@
 # IP Spoofing
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Connect and Protect: Networks and Network Security**
-
-![Topic](https://img.shields.io/badge/Topic-IP%20Spoofing-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Notes-Complete-brightgreen)
-
----
-
-# 📖 Overview
-
-IP spoofing is a network attack in which a malicious actor disguises the source IP address of a packet to impersonate a trusted device or system. By pretending to be an authorized user, attackers can bypass security controls, intercept communications, or launch denial-of-service attacks.
-
-Understanding IP spoofing is essential for cybersecurity professionals because it is commonly used alongside other network attacks to compromise confidentiality, integrity, and availability.
-
----
-
-# 🎯 Learning Objectives
-
-After studying this topic, I can:
-
-- Define IP spoofing
-- Explain how IP spoofing works
-- Identify common IP spoofing attacks
-- Understand the risks associated with spoofed IP addresses
-- Describe methods used to defend against IP spoofing
-- Recognize the importance of encryption and firewall configuration
-
----
-
 # 🌐 What is IP Spoofing?
 
 **IP spoofing** is a technique where an attacker changes the **source IP address** of a packet to make it appear as though it originated from a trusted device.

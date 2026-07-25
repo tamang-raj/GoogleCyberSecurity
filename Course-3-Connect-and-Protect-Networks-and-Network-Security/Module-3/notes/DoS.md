@@ -176,11 +176,3 @@ Understanding these attacks helps cybersecurity professionals detect unusual net
 - DoS attacks can cause financial losses, downtime, and operational disruption.
 
 ---
-
-## 📖 Module Information
-
-- **Course:** Google Cybersecurity Professional Certificate
-- **Course Number:** Course 3
-- **Module:** Module 3
-- **Topic:** Denial of Service (DoS) Attacks
-- **Status:** ✅ Completed

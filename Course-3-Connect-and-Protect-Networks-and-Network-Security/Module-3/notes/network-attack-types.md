@@ -1,33 +1,5 @@
 # Common Network Attack Types
 
-> **Google Cybersecurity Professional Certificate**  
-> **Course 3 – Module 3**
-
-![Course](https://img.shields.io/badge/Course-Google%20Cybersecurity-blue)
-![Module](https://img.shields.io/badge/Module-3-success)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Notes](https://img.shields.io/badge/Type-Study%20Notes-orange)
-
----
-
-# 📖 Overview
-
-This lesson introduces common network attack types, explains why attackers target organizations, and examines the potential consequences of successful cyberattacks. Security professionals must understand these threats in order to detect vulnerabilities and respond quickly to minimize damage.
-
----
-
-# 🎯 Learning Objectives
-
-After completing this lesson, you should be able to:
-
-- Explain why attackers target organizations.
-- Identify common network attack types.
-- Understand how interception and backdoor attacks work.
-- Recognize the business impact of cyberattacks.
-- Understand the importance of monitoring and mitigating vulnerabilities.
-
----
-
 # 🎯 Why Attackers Target Networks
 
 Cyber attackers have different motivations for targeting organizations. Understanding these motivations helps security analysts better anticipate potential threats.
@@ -168,12 +140,3 @@ Successful attacks can result in financial losses, reputational damage, legal co
 - Security analysts must continually identify and mitigate vulnerabilities.
 
 ---
-
-## 📖 Module Information
-
-- **Course:** Google Cybersecurity Professional Certificate
-- **Course Number:** Course 3
-- **Module:** Module 3
-- **Topic:** Common Network Attack Types
-- **Status:** ✅ Completed
-```
