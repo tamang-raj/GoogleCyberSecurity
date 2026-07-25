@@ -1,4 +1,3 @@
-````markdown
 # Google Cybersecurity Professional Certificate
 ## Course 3 – Module 3: Secure Networks Against Attacks
 
