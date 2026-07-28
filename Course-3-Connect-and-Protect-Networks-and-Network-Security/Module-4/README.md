@@ -1,4 +1,3 @@
-````markdown
 # Google Cybersecurity Professional Certificate
 ## Course 3 – Module 4: Security Hardening
 
