@@ -1,4 +1,3 @@
-````markdown
 # 🌐 Google Cybersecurity Professional Certificate
 # Course 3 – Connect and Protect: Networks and Network Security
 
