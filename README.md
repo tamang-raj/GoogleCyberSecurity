@@ -50,8 +50,8 @@ Throughout this certificate, I am developing skills in:
 |---------|--------|
 | ✅ Course 1 – Foundations of Cybersecurity | Completed |
 | ✅ Course 2 – Play It Safe: Manage Security Risks | Completed |
-| ⏳ Course 3 – Connect and Protect: Networks and Network Security | In Progress |
-| ⬜ Course 4 – Tools of the Trade: Linux and SQL | Not Started |
+| ✅ Course 3 – Connect and Protect: Networks and Network Security | In Progress |
+| ⏳ Course 4 – Tools of the Trade: Linux and SQL | Not Started |
 | ⬜ Course 5 – Assets, Threats, and Vulnerabilities | Not Started |
 | ⬜ Course 6 – Sound the Alarm: Detection and Response | Not Started |
 | ⬜ Course 7 – Automate Cybersecurity Tasks with Python | Not Started |
@@ -111,6 +111,15 @@ Google-Cybersecurity-Professional-Certificate/
 - ✅ Module 3 – Introduction to Cybersecurity tools
 - ✅ Module 4 – Use Playbooks to Respond to Incidents
 
+
+## ✅ Course 3 – Connect and Protect: Networks and Network Security
+
+### Modules
+
+- ✅ Module 1 – 
+- ✅ Module 2 – Security frameworks and controls
+- ✅ Module 3 – Introduction to Cybersecurity tools
+- ✅ Module 4 – Use Playbooks to Respond to Incidents
 ---
 
 # 🛠️ Technologies & Tools
@@ -146,10 +155,13 @@ Google-Cybersecurity-Professional-Certificate/
 
 ![Course 1 Certificate](Certificate/course-2-certificate.png)
 
-## Course 2 – Play it Safe- Manage Security Risk
+## Course 2 – Play it Safe: Manage Security Risk
 
 ![Course 2 Certificate](Certificate/course-2-certificate.png)
 
+## Course 3 – Connect and Protect: Networks and Network Security
+
+![Course 3 Certificate](Certificate/course-3-certificate.png)
 
 ---
 
