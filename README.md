@@ -116,10 +116,10 @@ Google-Cybersecurity-Professional-Certificate/
 
 ### Modules
 
-- ✅ Module 1 – 
-- ✅ Module 2 – Security frameworks and controls
-- ✅ Module 3 – Introduction to Cybersecurity tools
-- ✅ Module 4 – Use Playbooks to Respond to Incidents
+- ✅ Module 1 – Network architecture
+- ✅ Module 2 – Network operations
+- ✅ Module 3 – Security against network intrusions
+- ✅ Module 4 – Security hardening
 ---
 
 # 🛠️ Technologies & Tools
@@ -184,6 +184,7 @@ My long-term goal is to become a:
 
 - ✅ Course 1 Completed
 - ✅ Course 2 Completed
+- ✅ Course 3 Completed
 - ⏳ Continuing through the remaining courses
 - 🚀 Expanding this repository with notes, labs, projects, and certifications
 
