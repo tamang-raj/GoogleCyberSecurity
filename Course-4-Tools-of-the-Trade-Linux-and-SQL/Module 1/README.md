@@ -1,4 +1,3 @@
-````markdown
 # 🐧 Google Cybersecurity Professional Certificate
 # Course 4 – Tools of the Trade: Linux and SQL
 ## Module 1 – Introduction to Operating Systems
